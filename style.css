@@ -1,0 +1,101 @@
+body{
+  background: linear-gradient(-105deg, rgb(255, 255, 255) 50%, #0D09B8 50%);
+  height: 280vh;
+}
+
+
+
+
+img{
+
+   width: 350px;
+  height: 85px;
+  display: flex;
+  padding-top: 90px;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.txtladoazul{
+font-family: Verdana, Geneva, Tahoma, sans-serif  ;
+  color: white; 
+  font-size: 56px;
+padding-top: 300px;
+
+}
+
+
+.info{
+  position: absolute;
+width: 699px;
+height: 580px;
+padding-left: 779px;
+top: 200px;
+
+font-family: Varela;
+font-style: normal;
+font-weight: normal;
+font-size: 29px;
+line-height: 38px;
+
+color: #989DA2;
+}
+
+
+
+
+.info0{
+  position: absolute;
+  width: 699px;
+  height: 580px;
+padding-left: 780px;
+top: 325px;
+  
+  font-family: Varela;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 29px;
+  line-height: 38px;
+  
+  color: #989DA2;
+
+}
+.info1{ 
+  position: absolute;
+  width: 699px;
+  height: 580px;
+padding-left: 780px;
+top: 475px;
+  font-family: Varela;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 29px;
+  line-height: 38px;
+  
+  color: #989DA2;
+
+}
+.info2{
+  padding-left: 550px;
+font-size: 15px;
+color: blue;
+padding-top: 100px;
+}
+.info3{
+  padding-left: 505px;
+  font-size: 15px;
+
+}
+.info4{
+  position: absolute;
+  width: 699px;
+  height: 580px;
+padding-left: 780px;
+top: 575px;
+  font-family: Varela;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 29px;
+  line-height: 38px;
+  
+  color: #989DA2;
+}
